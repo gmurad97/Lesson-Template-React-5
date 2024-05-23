@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: auto;
+    background-color: #201820;
+    font-family: "Helvetica", sans-serif;
+}
